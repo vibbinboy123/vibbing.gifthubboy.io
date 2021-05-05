@@ -1,4 +1,4 @@
-# vibbing.gifthubboy.io
+
 .rainbowText{background-image: linear-gradient(to right, #2e62ff, #0099ff , #00ff00, #ffde3b, #ff3399, #6666ff);animation: gradient-border 2s linear infinite;background-size: 400% 100%;color: transparent !important;-webkit-background-clip: text;} @keyframes gradient-border{0%, 200% {background-position: 0 0;}99.999999999999999% {background-position: -130% 0;}}
 
 *::-webkit-scrollbar { display: none; }
